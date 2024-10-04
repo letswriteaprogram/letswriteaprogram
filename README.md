@@ -7,7 +7,7 @@ I am a **Frontend Developer** passionate about building interactive and user-fri
 ## 🔗 Connect with Me
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/shubhampatidar/">
+  <a href="https://www.linkedin.com/in/shubham-patidar-6170081ba">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
