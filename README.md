@@ -1,20 +1,6 @@
 <h1 align="center">👋 Hi there, I'm Shubham Patidar</h1>
 <h3 align="center">Frontend Developer | React Enthusiast | JavaScript Developer </h3>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/shubham-patidar-6170081ba">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  &nbsp;
-  <a href="https://twitter.com/shubham33533">
-    <img src="https://img.shields.io/badge/-Twitter-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
-  </a>
-  &nbsp;
-  <a href="mailto:shubhampatidarsp07@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-</p>
-
 ---
 
 ## 🧑‍💻 About Me
@@ -28,7 +14,16 @@ I'm always learning new tools and improving my code quality, design thinking, an
 ## ⚙️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,redux,tailwind,vite,webpack,git,github,mysql,php" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,redux,tailwind,vite,webpack,git,github,mysql" />
+</p>
+
+---
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=letswriteaprogram&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=letswriteaprogram&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=letswriteaprogram&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 ---
@@ -84,17 +79,23 @@ Interactive web app that displays information about countries with search and fi
 
 ---
 
-## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=letswriteaprogram&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=letswriteaprogram&theme=tokyonight" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=letswriteaprogram&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
-
----
 
 ## 🌐 Let's Connect
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/shubham-patidar-6170081ba">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  &nbsp;
+  <a href="https://twitter.com/shubham33533">
+    <img src="https://img.shields.io/badge/-Twitter-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  </a>
+  &nbsp;
+  <a href="mailto:shubhampatidarsp07@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+</p>
 
 <p align="center">
   <a href="https://github.com/letswriteaprogram">
