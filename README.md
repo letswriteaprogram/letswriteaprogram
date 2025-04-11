@@ -1,79 +1,107 @@
-# 👋 Hi there, I'm Shubham!
+<h1 align="center">👋 Hi there, I'm Shubham Patidar</h1>
+<h3 align="center">Frontend Developer | React Enthusiast | JavaScript Developer </h3>
 
-I am a **Frontend Developer** passionate about building interactive and user-friendly web applications. I love working on innovative projects and continuously expanding my knowledge in frontend technologies like **React, Redux, JavaScript, and Tailwind CSS**.
+<p align="center">
+  <a href="https://www.linkedin.com/in/shubham-patidar-6170081ba">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  &nbsp;
+  <a href="https://twitter.com/shubham33533">
+    <img src="https://img.shields.io/badge/-Twitter-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  </a>
+  &nbsp;
+  <a href="mailto:shubhampatidarsp07@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+</p>
 
 ---
 
-## 🔗 Connect with Me
+## 🧑‍💻 About Me
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/shubham-patidar-6170081ba">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile" />
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://twitter.com/shubham33533">
-    <img src="https://img.shields.io/badge/-Twitter-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Profile" />
-  </a>
-</div>
+I'm a passionate **Frontend Developer** who loves crafting beautiful and performant web applications.  
+My focus is on building **modern, responsive, and user-centric UIs** using **React, Redux, JavaScript, and Tailwind CSS**.  
+I'm always learning new tools and improving my code quality, design thinking, and product experience.
+
+---
+
+## ⚙️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,redux,tailwind,vite,webpack,git,github,mysql,php" />
+</p>
 
 ---
 
 ## 💼 Projects
 
-### 1. [Note-Taking App](https://notetakingapp05.netlify.app/)
+### 📝 [Note-Taking App](https://notetakingapp05.netlify.app/)
 <p align="center">
   <img src="https://raw.githubusercontent.com/letswriteaprogram/portfolio/refs/heads/main/src/assets/notes.jpg" alt="Note-Taking App Screenshot" width="600"/>
 </p>
 
-**Technologies Used:** React, Redux, Tailwind CSS, Appwrite, React Router DOM, Context API  
-**Project Overview:** A responsive, feature-rich note-taking app allowing users to sign up, log in, and efficiently manage and categorize notes with full CRUD functionality.
+**Tech Stack:** React, Redux, Tailwind CSS, Appwrite, React Router DOM, Context API  
+A responsive, feature-rich note-taking app with full CRUD functionality and authentication.
 
 **Key Features:**
-- **User Authentication:** Secure sign-up and login using Appwrite.
-- **Note Management:** Create, read, update, and delete notes with rich text formatting.
-- **Categorization:** Organize notes under different boards.
-- **State Management:** Efficient data handling using the Context API and Redux.
-- **Responsive Design:** Provides a seamless experience across devices using Tailwind CSS.
+- Secure sign-up/login using Appwrite
+- Create, read, update, and delete notes with formatting
+- Organize notes under different boards
+- Context API and Redux for state management
+- Fully responsive across devices
 
 ---
 
-### 2. [HDPNGWorld](https://hdpngworld.com/)
+### 🖼️ [HDPNGWorld](https://hdpngworld.com/)
 <p align="center">
   <img src="https://raw.githubusercontent.com/letswriteaprogram/portfolio/refs/heads/main/src/assets/hdpngworld.jpg" alt="HDPNGWorld Screenshot" width="600"/>
 </p>
 
-**Technologies Used:** HTML, CSS, JavaScript, PHP, MySQL, AdSense  
-**Project Overview:** Developed an image website specializing in high-quality PNG images for designers and creators, providing a wide range of downloadable resources.
+**Tech Stack:** HTML, CSS, JavaScript, PHP, MySQL, AdSense  
+A high-quality PNG resource site with SEO optimization and ad monetization.
 
 **Key Features:**
-- **Dynamic Page Generation:** Infinite page creation based on categories and tags.
-- **Extensive Image Library:** High-definition PNGs stored in a MySQL database.
-- **User-Friendly Interface:** Intuitive layout for easy browsing and downloading.
-- **Ad Monetization:** Revenue generation through Google AdSense.
-- **SEO Optimization:** Enhanced visibility for increased organic traffic.
-- **Responsive Design:** Optimal performance across all devices.
+- Dynamic page generation based on categories and tags
+- 1.5K+ monthly users downloading PNGs
+- Lazy loading for better performance
+- Responsive layout for all screen sizes
 
 ---
 
-### 3. [Rest Countries Info](https://restcountries07.netlify.app/)
+### 🌍 [Rest Countries Info](https://restcountries07.netlify.app/)
 <p align="center">
   <img src="https://raw.githubusercontent.com/letswriteaprogram/portfolio/refs/heads/main/src/assets/restcountries.jpg" alt="Rest Countries Screenshot" width="600"/>
 </p>
 
-**Technologies Used:** React, Redux, Tailwind CSS, REST API  
-**Project Overview:** A responsive web application displaying detailed information about all countries using data fetched from the Rest Countries API. Users can search, filter, and view detailed profiles of each country.
+**Tech Stack:** React, Redux, Tailwind CSS, REST API  
+Interactive web app that displays information about countries with search and filters.
 
 **Key Features:**
-- **Country Search & Filter:** Search countries by name and filter them by region.
-- **Detailed Country Profiles:** Each country page provides details such as population, capital, region, subregion, languages, currencies, and more.
-- **Theme Toggle:** Light and dark mode support for better readability.
-- **Responsive Design:** Adapts seamlessly to different screen sizes.
+- Country search & region filter
+- Detailed info: population, capital, region, currencies, etc.
+- Theme toggle: light/dark mode
+- Fully responsive
 
 ---
 
-<div align="center">
-  <a href="https://github.com/letswriteaprogram" target="_blank">
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=letswriteaprogram&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=letswriteaprogram&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=letswriteaprogram&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
+
+---
+
+## 🌐 Let's Connect
+
+<p align="center">
+  <a href="https://github.com/letswriteaprogram">
     <img src="https://img.shields.io/github/followers/letswriteaprogram?label=Follow%20me%20on%20GitHub&style=social" alt="GitHub Follow" />
   </a>
-</div>
+</p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=letswriteaprogram&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
